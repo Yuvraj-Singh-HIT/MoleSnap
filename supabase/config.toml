@@ -1,0 +1,4 @@
+project_id = "ujuvjzzhapsyoaqcpufj"
+
+[functions.analyze-molecule]
+verify_jwt = false
