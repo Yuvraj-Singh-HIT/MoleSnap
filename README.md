@@ -366,7 +366,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 Star us on GitHub — it helps!
 
-Made with 💜 by pharmaceutical tech enthusiasts
+Made with 💜 by Yuvraj Singh
 
 [Report Bug](https://github.com/yourusername/molesnap/issues) • [Request Feature](https://github.com/yourusername/molesnap/issues) • [Documentation](https://github.com/yourusername/molesnap/wiki)
 
